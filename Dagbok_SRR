@@ -3,19 +3,20 @@
 # 29.11.2018 (fimmtudagur)
 ## Í dag byrjuðum við á Lokaverkefni í KEST2UN05EU, Við setum samann upp Github repository.
 Síðan var sett upp dagbækur, verkefnislýsingu og endurskrifað README.MD svo að upplýsingar séu skýrar
-## Í dag förum við í að setja up Domain controler á WIN3A-11 server, "AD-DC" og "DNS" allt á WIN3A-11 server.
+## Í dag förum við í að setja up Domain controler á WIN3A-11 server, "AD-DS" á WIN3A-11 server.
 ## Það var farið svo í að setja up DHCP á Server 12 "WIN3A-12"
-
 
 # 3.12.2018 (mánudagur)
 ## Í dag fórum Ég og Viðar Erik í að setja up ný functions, foreach og incrementation allt svo að OU-aðgerðir gætu keyrt rétt.
 OU-aðgerðir náðu að setja upp OU og hópa fyrir bæði nemendur og kennara. OU var set upp svo að það fái sinn eigin „Allir“ hópa á hverju þrepi.
 ## OU users og groups eru set up á WIN3A-11 server.
-
-## Þegar við vorumÞað var smá vesen að fá rétt icrementation til að virka,
+## OU liður virkar allur nema fyrir utan að fá rétt incrementation til að virka "gugu1 - gugu2 - gugu3", sem við reynum að laga í langan tíma og fundum ekki hvað var að þessu "incrementation",
+í okkar skript.
 
 # 6.12.2018 (Fimmtudagur)
-##
-## 
+## Í dag var farið í að lagfæra og klára lokaverkefnið, Nemendur á tölvubraut fengu að fá persónulegt vefsvæði (modify rettindi, max 50 MB í stærð)
+og mappast það sem W: hjá þeim. Klárað var að setja upp allar möppur og index.html skrár fyrir nemendur "Tölvubraut Nemendur".
+## síðan var set up rétt réttindi fyrir kennara "Tölvubraut Kennarar" svo að þeir hafi modify réttindi á vefsvæði nemenda "Tölvubraut Nemendur"
+## Að lokum virkar allt hjá okkur nema (incrementation count fyrir "gugu1" og "gugu2") Vefsvæðið "Tölvubraut Nemendur" skilar Ping en það er ekki aðgengilegt á "Index.html" notendanafn.tskoli.is. 
 # Aukakröfur
 ## í dag var bæt við auka kröfu sem er að setja upp virkan Back-Up Domain Controller á Server 12 "WIN3A-12 sem hýsir DHCP"
