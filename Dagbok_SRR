@@ -10,10 +10,12 @@ Síðan var sett upp dagbækur, verkefnislýsingu og endurskrifað README.MD svo
 # 3.12.2018 (mánudagur)
 ## Í dag fórum Ég og Viðar Erik í að setja up ný functions, foreach og incrementation allt svo að OU-aðgerðir gætu keyrt rétt.
 OU-aðgerðir náðu að setja upp OU og hópa fyrir bæði nemendur og kennara. OU var set upp svo að það fái sinn eigin „Allir“ hópa á hverju þrepi.
-##
+## OU users og groups eru set up á WIN3A-11 server.
 
 ## Þegar við vorumÞað var smá vesen að fá rétt icrementation til að virka,
 
-# 6.12.2018
+# 6.12.2018 (Fimmtudagur)
 ##
-## Í dag var farið í að hafa virkan Back-Up Domain Controller, á Server 12 "WIN3A-12" sem hýsir DHCP
+## 
+# Aukakröfur
+## í dag var bæt við auka kröfu sem er að setja upp virkan Back-Up Domain Controller á Server 12 "WIN3A-12 sem hýsir DHCP"
