@@ -1,0 +1,20 @@
+# Dagbók fyrir KEST3WN05EU Lokaverkefni (20%) Viðar Erik Viðarsson.
+
+# 29.11.2018 (fimmtudagur)
+## Í dag byrjuðum við á Lokaverkefni í KEST2UN05EU, Við setum samann upp Github repository.
+Síðan var sett upp dagbækur, verkefnislýsingu og endurskrifað README.MD svo að upplýsingar séu skýrar
+## Í dag förum við í að setja up Domain controler á WIN3A-11 server, "AD-DC" og "DNS" allt á WIN3A-11 server.
+## Það var farið svo í að setja up DHCP á Server 12 "WIN3A-12"
+
+
+# 3.12.2018 (mánudagur)
+## Þennan dag fórum við að gera functions til þess að gera skammstafarnir fyrir Nemendur userlogin nafn. Við lentum í smá basli að það kom
+## ekki rétt hlaupandi tala (Auto incrementation).
+
+## Þegar við vorumÞað var smá vesen að fá rétt icrementation til að virka,
+
+# 6.12.2018 (Fimmtudagur)
+## Dagurinn í dag var farið í að stútera hvernig á að setja backup domain controller sem keyrðist og virðist virka.
+## Það var farið í að reina leiðrétta skammstafa fallið svo það komi út rétt hlaupandi tala vantaði kannski '@' merkið.
+# Aukakröfur
+## í dag var bæt við auka kröfu sem er að setja upp virkan Back-Up Domain Controller á Server 12 "WIN3A-12 sem hýsir DHCP"
